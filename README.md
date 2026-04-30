@@ -259,7 +259,7 @@ If model coefficients or p-values differ significantly from expected:
 - Check that the date column is properly formatted as a datetime type before modeling.
 - Large deviations may indicate the join step produced duplicate or misaligned rows — re-run Steps 3 and 4 before re-running the model.
 
---
+---
 
 ## References
 

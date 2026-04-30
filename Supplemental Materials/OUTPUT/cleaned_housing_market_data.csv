@@ -1,0 +1,10 @@
+date,file_name_minutes,start_time,end_time,housing_mentions,uncertainty_mentions,housing_uncertainty_sentences,uncertainty_score,file_name_caar,sales,pending_sales,new_listings,median_list_price,median_sales_price,median_price_per_sqft,sold_dollar_volume(millions),median_sold/ask_price_ratio,median_days_on_market,new_construction_sales,price_volatility,meeting_duration_min
+2025-03,HAC Minutes 03-2025.txt,12:09 PM,1:31 PM,17,16,7,0.4118,25-03-caar-market-indicators.pdf,290,408,633,450000,448500,259,160.5,1,18,73,0,82
+2025-04,HAC Minutes 04-2025.txt,12:10 PM,1:26 PM,20,12,2,0.1,25-04-market-report.pdf,321,417,666,475000,475000,268,197.3,1,8,66,0.05909,76
+2025-05,HAC Minutes 05-2025.txt,12:06 PM,12:59 PM,20,11,4,0.2,25-05-market-indicator-report.pdf,372,372,558,471000,468200,274,228.3,1,9,69,-0.01432,53
+2025-06,HAC Minutes 06-2025.txt,12:05 PM,12:58 PM,6,7,1,0.1667,25-06-market-indicator-report.pdf,394,335,477,500000,500000,283,264.6,1,10,51,0.06792,53
+2025-07,HAC Minutes 07-2025.txt,12:05 PM,,51,13,4,0.0784,25-07-market-indicator-report.pdf,340,349,550,450000,450000,265,195.3,0.995,15,59,-0.1,
+2025-08,,,,0,0,0,0,25-08-market-indicators-report.pdf,358,317,540,450000,450000,259,205.9,0.998,20,77,0,
+2025-09,HAC Minutes 09-2025.txt,12:10 PM,1:58 PM,61,8,5,0.082,25-09-market indicator-report.pdf,292,353,545,449950,449995,268,181.2,1,19,70,-0.00001,108
+2025-10,HAC Minutes 10-2025.txt,,,35,14,2,0.0571,25-10-market-report.pdf,329,334,514,499000,490000,271,204.1,1,16,75,0.0889,
+2025-11,HAC Minutes 11-2025.txt,12:05 PM,2:00 PM,77,10,3,0.039,25-11-market-report.pdf,285,340,427,478000,475000,258,177.5,0.996,18,81,-0.03061,115

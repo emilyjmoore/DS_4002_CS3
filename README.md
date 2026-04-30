@@ -266,3 +266,7 @@ If model coefficients or p-values differ significantly from expected:
 [1] L. Mercanti, “Natural Language Processing (NLP) in Finance: How AI is Transforming Market Analysis,” Medium. Accessed: Apr 29, 2025. [Online]. Available: (https://leomercanti.medium.com/natural-language-processing-nlp-in-finance-how-ai-is-transforming-market-analysis-9b7c4d2c5c61)
 
 [2] "What Is an ARIMAX Model?," GeeksforGeeks. Accessed: Apr 29, 2025. [Online]. Available: (https://www.geeksforgeeks.org/artificial-intelligence/what-is-an-arimax-model/)
+
+[3] “Agendas & Minutes | Charlottesville, VA,” Charlottesville.gov, 2023. https://www.charlottesville.gov/1077/Agendas-Minutes (accessed Jan. 30, 2026). 6
+
+[4] “2025 CAAR Market Trends,” Virginiacountryliving.com, 2025. https://www.virginiacountryliving.com/caar-market-reports.php (accessed Jan. 30, 2026).

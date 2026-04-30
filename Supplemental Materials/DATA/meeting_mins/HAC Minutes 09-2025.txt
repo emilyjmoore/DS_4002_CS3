@@ -1,0 +1,387 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2867
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Arial-BoldMT;\f1\fswiss\fcharset0 Arial-ItalicMT;\f2\fswiss\fcharset0 ArialMT;
+\f3\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\csgray\c0;}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\b\fs22\fsmilli11040 \cf2 CITY OF CHARLOTTESVILLE\
+
+\f1\i\b0 To be a place where everyone thrives.\
+
+\f0\i0\b\fs31\fsmilli15960 Housing Advisory Committee\
+
+\fs24 Wednesday, September 17, 2025, noon\
+
+\f2\b0 Location: 100 Fifth Street NE, Charlottesville, VA 22902\
+CitySpace - Large Conference Room\
+
+\f0\b\fs22\fsmilli11040 HAC Members Present:\
+
+\f3\b0 \'95
+\f2  Joy Johnson, Chair, Affordable\
+Housing Beneficiary (JJ)\
+
+\f3 \'95
+\f2  Rich Bard, Affordable Housing\
+Beneficiary (RB)\
+
+\f3 \'95
+\f2  Phil d'Oronzio, Real Estate\
+Professional (PdO)\
+
+\f3 \'95
+\f2  Heather Griffith, Real Estate\
+Professional (HG)\
+
+\f3 \'95
+\f2  Peppy Linden, At-Large (PL)\
+
+\f3 \'95
+\f2  Mike Parisi, Secretary, At-Large\
+(MCP)\
+
+\f3 \'95
+\f2  Michael Payne, City Councilor (MP)\
+
+\f3 \'95
+\f2  Dan Rosenweig, Non-profit - Habitat\
+for Humanity (DR)\
+
+\f3 \'95
+\f2  Nicole Scro, Real Estate Professional\
+(NS)\
+
+\f0\b HAC Members Absent:\
+
+\f3\b0 \'95
+\f2  John Sales, Non-profit -\
+Charlottesville Redevelopment &\
+Housing Authority (JS)\
+
+\f0\b Staff Attendees:\
+
+\f3\b0 \'95
+\f2  Madelyn Metzler, Acting Housing\
+Program Manager, Neighborhood\
+Development Services (MM)\
+
+\f3 \'95
+\f2  Alan Peura, Grants Analyst, Office of\
+the City Manager (AP)\
+
+\f3 \'95
+\f2  Kellie Brown, Director, Neighborhood\
+Development Services (KB)\
+
+\f0\b Online Attendees:\
+
+\f3\b0 \'95
+\f2  Steven Johnson, Liveable Cville Co-\
+Chair (BC)\
+
+\f3 \'95
+\f2  Sophia Gurni, 29 News\
+
+\f3 \'95
+\f2  Mike Callahan, 3TP Ventures\
+
+\f3 \'95
+\f2  Jeremy Goldstein, 3TP Ventures\
+
+\f3 \'95
+\f2  Sunshine Mathon, Vice Chair, Non-\
+profit - Piedmont Housing Alliance\
+(SM)\
+
+\f0\b 1. Welcome\
+JJ
+\f2\b0 : Calls meeting to order 12:10pm.\
+
+\f0\b 2. Introductions and Attendance\
+3. Staff Updates\
+i. Housing Updates\
+Kellie Brown (KB): 
+\f2\b0 Antoine Williams, former Housing Program Manager, resigned this summer\
+after extended FMLA leave. Recruiting now to fill position. Madelyn Metzler filling in as acting\
+manager.\
+
+\f0\b Madelyn Metzler (MM): 
+\f2\b0 Annual CAHF (Charlottesville Affordable Housing Fund) and HOPS\
+(Housing Operations and Program Support) grants applications open soon: this Friday for\
+CAHF, HOPS next month.\
+Page 1 of 4
+\f3\fs24 \cf0 \page 
+\f2\fs22\fsmilli11040 \cf2 Also just issued our annual request for information for affordable housing programs. Gives the\
+City an idea of who will be making requests for assistance.\
+Also conducting reviews of development and site plans, including the first applications to include\
+required ADUs (Affordable Dwelling Units).\
+CRHA South 1st and 6th St projects ongoing, first drawdowns being paid.\
+CSRAP (Charlottesville Supplemental Rental Assistance Program) presentation to Council this\
+summer. Doing program evaluation over the next year, will engage stakeholders including HAC.\
+Completing the VA Dept of Housing and Community Development survey re: City policies and\
+actions on affordable housing; this is the second year of the survey.\
+
+\f0\b PdO:
+\f2\b0  CSRAP was designed in the HAC, led by Dan Rosensweig.\
+
+\f0\b DR:
+\f2\b0  Goal was ~100 vouchers at a time.\
+
+\f0\b MM:
+\f2\b0  Not at 100 now, hasn\'92t ever gotten up to 100. Around 60. Program funding has been static\
+since 2018 as housing costs have increased.\
+
+\f0\b PdO:
+\f2\b0  Effects of pending government shutdown?\
+
+\f0\b MM:
+\f2\b0  Thinking in terms of effects on partners. The Office of Budgets and Grants has been\
+looking at that.\
+
+\f0\b ii. Development Code Updates\
+KB:
+\f2\b0  Judgement was issued that City was in default for failure to file paperwork by deadline. City\
+requested reconsideration, judge\'92s newest ruling leaves Development Code in effect and allows\
+lawsuit to move forward. Waiting for a new trial date, expecting summer 2026.\
+
+\f0\b DR:
+\f2\b0  Plans for modifications of code in the meantime?\
+
+\f0\b KB
+\f2\b0 : Still moving forward with our change process. Listening session October 14 for community,\
+developers to give feedback to Planning Commission.\
+
+\f0\b DR:
+\f2\b0  Requests separate session with nonprofit developers.\
+
+\f0\b 4. Agenda\
+i. July 16, 2025 Regular HAC Meeting Minutes\
+
+\f1\i\b0 Approved\
+
+\f0\i0\b ii. Update on Charlottesville Affordable Housing Tax Abatement Program - Presentation\
+on data and model\
+Alan Peura (AP): 
+\f2\b0 In April, Council asked staff to research concept of a tax abatement program\
+and whether it would work in our local market to improve feasibility of Inclusionary Zoning\
+requirements in new Development Code. Hired 3TP consultants to conduct study.\
+
+\f0\b Jeremy Goldstein, 3TP Ventures (JG): 
+\f2\b0 Had similar meeting with CADRE earlier today.\
+Looking for feedback from local stakeholders.\
+Significant Events:\
+
+\f3 \'95
+\f2  Affordable Housing Needs Assessment: 4,000 units needed by 2040\
+
+\f3 \'95
+\f2  Affordable Housing Plan, Comprehensive Plan, Dec 2023 Zoning Ordinance with IZ\
+requirements\
+
+\f3 \'95
+\f2  City Council housing funding commitment $10mil/yr\
+Our goal is to evaluate feasibility impacts of a tax abatement using our model aka\
+\'93Charlottesville Development Feasibility Assessment Tool\'94. Tool features:\
+
+\f3 \'95
+\f2  \'93Yield on cost\'94 and \'93IRR (Internal Rate of Return)\'94 for a typical project\
+
+\f3 \'95
+\f2  With and without public incentives\
+
+\f3 \'95
+\f2  Ability to analyze across building types and submarkets\
+
+\f3 \'95
+\f2  Similar language for discussion\
+Page 2 of 4
+\f3\fs24 \cf0 \page 
+\f2\fs22\fsmilli11040 \cf2 Tool Overview\
+
+\f3 \'95
+\f2  Tool to inform policy decisions\
+
+\f3 \'95
+\f2  Transparent, flexible, adaptable - inputs can change as needed, with feedback\
+
+\f3 \'95
+\f2  Collaborative effort with reliable inputs\
+
+\f3 \'95
+\f2  Not for specific project feasibility\
+
+\f3 \'95
+\f2  Not for finding exact abatement figures\
+
+\f3 \'95
+\f2  Not for determining policy\
+Assumptions\
+
+\f3 \'95
+\f2  Construction costs\
+
+\f3 \'95
+\f2  Land costs by submarkets\
+
+\f3 \'95
+\f2  Soft costs\
+
+\f3 \'95
+\f2  Rents (market, affordable)\
+
+\f3 \'95
+\f2  Development timelines\
+Sources: RSMeans, City of Charlottesville\
+Figures are a starting point, place to begin gathering feedback\
+Questions\
+
+\f3 \'95
+\f2  Typical project feasibility\
+
+\f3 \'95
+\f2  IZ effect on feasibility\
+
+\f3 \'95
+\f2  Abatement effects on feasibility\
+Markets (Building categories)\
+
+\f3 \'95
+\f2  High rise 8+\
+
+\f3 \'95
+\f2  Midrise up to 7\
+
+\f3 \'95
+\f2  RSMeans: online program that does market-specific construction cost estimates\
+
+\f3 \'95
+\f2  7 stories is tallest you can build with concrete base and wood above\
+
+\f3 \'95
+\f2  8+ stories is steel construction\
+
+\f3 \'95
+\f2  Low rise\
+
+\f3 \'95
+\f2  Garden apt\
+
+\f3 \'95
+\f2  Townhouse\
+
+\f3 \'95
+\f2  Single Family\
+Initial Scenario Findings\
+
+\f3 \'95
+\f2  With IZ, very few \'93yellow\'94 projects, no \'93green\'94 (measuring feasibility of projects)\
+
+\f3 \'95
+\f2  Using Yield on Cost: 5.5% = \'93yellow\'94 threshold, 7% \'93green\'94 threshold\
+
+\f3 \'95
+\f2  Using IRR: 15% = \'93yellow\'94, 20% = \'93green\'94\
+
+\f3 \'95
+\f2  W/o any IZ requirements, no green projects but more yellow ones\
+
+\f3 \'95
+\f2  Changes are subtle, ~1-2% with and without IZ requirements\
+
+\f3 \'95
+\f2  Regulatory rules, especially pre-development timeline, have larger effects than IZ\
+
+\f0\b DR
+\f2\b0 : Would be nice to layer in the effect of Opportunity Zone tax incentives on the tool\'92s\
+outcomes. Have a few OZs in Charlottesville.\
+
+\f0\b PdO
+\f2\b0 : Not a lot of opportunities for large new construction, how can we use abatements to make\
+smaller projects feasible, take advantage of the ability to sub-lot under new Development Code\
+and build multiple units in Residential districts?\
+
+\f0\b MP
+\f2\b0 : Would be important to at one point isolate student housing as a specific category in the\
+tool.\
+Page 3 of 4
+\f3\fs24 \cf0 \page 
+\f0\b\fs22\fsmilli11040 \cf2 JG
+\f2\b0 : Tool Walkthrough:\
+
+\f3 \'95
+\f2  Can quickly, easily adjust variables like development type, submarket, unit number, parking,\
+affordability, different rates of abatement.\
+
+\f3 \'95
+\f2  Can choose between two abatement models, traditional and \'93Baltimore\'94 models\
+
+\f3 \'95
+\f2  Feedback from developers that construction cost estimates are too low\
+
+\f3 \'95
+\f2  Predevelopment costs matter differently depending on size of shop. Do they have to provide\
+equity up front or not? Easier for larger developers.\
+
+\f3 \'95
+\f2  Not enough land sales here for a good sample size; used City Assessor data for raw land\
+w/o improvements to fill in as land prices\
+
+\f0\b DR
+\f2\b0 : New ordinance allowing sublots is another variable. There\'92s no \'93raw land\'94. Don\'92t yet know\
+the value of land for infill developments.\
+
+\f0\b MP
+\f2\b0 : Would be good to tease out how predevelopment timelines are affected by administrative\
+review vs BAR vs special exception permits.\
+
+\f0\b NS
+\f2\b0 : Supports tying abatement to rent difference btw 80% AMI and voucher holders. Rules in R-\
+A -B -C differ from mixed use districts.\
+
+\f0\b DR
+\f2\b0 : Recommend adjusting the assumptions for feasibility. Developers in Charlottesville are\
+willing to take lower IRR because of the stability of our market, 20% IRR may be too high a\
+threshold.\
+Should model Opportunity Zones differently, the tax-free capital gains after 10 years available in\
+OZs blow IRR through the roof. Investors looking for IRR at market value plus OZ \'93juice\'94.\
+Opportunity Zones just made permanent through the Tax Bill.\
+
+\f0\b NS
+\f2\b0 : Hesitance by City to use abatements because they don\'92t see unbuilt projects as lost\
+revenue. They see the abatement itself as lost revenue.\
+
+\f0\b MP
+\f2\b0 : Important to consider whether the juice is worth the squeeze. Might want to look at other\
+options like providing cheap capital (loans).\
+
+\f0\b PdO
+\f2\b0 : Might want to point the tool towards smaller developments like quad/tri/duplexes.\
+
+\f0\b JJ
+\f2\b0 : For next meeting in October, looking at HAC workplan.\
+
+\f0\b MM
+\f2\b0 : Can have Chris Engel from Economic Development present about a loan product they are\
+developing.\
+
+\f0\b JJ
+\f2\b0 : Notes student housing building proposal on West Main St above Westhaven public housing\
+community. Residents may come to HAC to express their thoughts during public comment.\
+Residents have been meeting for the last three years to design their community redevelopment,\
+and then the developer came to BAR in April with a plan they felt didn\'92t take that work into\
+account.\
+
+\f0\b 5. Public Comment\
+Steven Johnson, Livable Cville
+\f2\b0 : Baltimore method\'92s elegance is that over the span of 25-35 years,\
+the gap between market rate and affordable rents closes. Diminishes concern about an \'93in\
+perpetuity\'94 giveaway; abatement should also decrease over time.\
+
+\f0\b 6. Next Meeting October 15, 2025\
+7. Adjourn\
+
+\f1\i\b0 Adjourned 1:58pm.\
+
+\f2\i0 Page 4 of 4}

@@ -1,0 +1,189 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2867
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fswiss\fcharset0 ArialMT;\f2\fswiss\fcharset0 Arial-BoldMT;
+}
+{\colortbl;\red255\green255\blue255;\red64\green64\blue64;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\csgray\c31800;\csgray\c0;}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs21\fsmilli10980 \cf2 Attachment 1- April 16, 2025, Regular HAC Meeting Minutes\
+\cf3 Housing Advisory Committee (HAC) Minutes\
+Wednesday, April 16, 2025\
+City Space Conference Room 12pm - 2pm\
+HAC Members Present:\
+\'95
+\f1  
+\f0 Joy Johnson, Chair (JJ)\
+\'95
+\f1  
+\f0 Sunshine Mathon, Vice Chair (SM)\
+\'95
+\f1  
+\f0 Phil d'Oronzio (PdO)\
+\'95
+\f1  
+\f0 Heather Griffith (HG)\
+\'95
+\f1  
+\f0 Peppy Linden (PL)\
+\'95
+\f1  
+\f0 Mike Parisi (MCP)\
+\'95
+\f1  
+\f0 Dan Rosensweig (DR)\
+\'95
+\f1  
+\f0 Nicole Scro (NS)\
+HAC Members Absent:\
+\'95
+\f1  
+\f0 Michael Payne (MP)\
+\'95
+\f1  
+\f0 John Sales (JS)\
+Staff Attendees:\
+\'95
+\f1  
+\f0 Alexander Ikefuna (AI)\
+\'95
+\f1  
+\f0 Madelyn Metzler (MM)\
+\'95
+\f1  
+\f0 Alan Peura (AP)\
+\'95
+\f1  
+\f0 Antoine Williams (AW)\
+1.
+\f2\b  
+\f0\b0 Welcome\
+JJ: Calls meeting to order at 12:10pm.\
+2.
+\f2\b  
+\f0\b0 Introductions and Attendance\
+3.
+\f2\b  
+\f0\b0 Staff Updates\
+AW: Council agenda for April 21\
+i.
+\f2\b  
+\f0\b0 Housing Program Manager provide copies of upcoming council items of interest\
+a.
+\f2\b  
+\f0\b0 2025 Affordable Housing Report\
+AW: This is the 4 year checkpoint of 2021\'92s 10 year plan. $100mil commitment over\
+next ten years. $59mil spent so far, $48.1mil in direct investments. There are 1023\
+SAUs (Supported Affordable Units) at present.\
+SM: SAU number includes future SAUs?\
+AW: Accounts for money already committed by the City, but that money might not\
+be received by orgs yet. Projected to hit $120mil spent on housing-related activities\
+(includes admin cost, tax relief programs, etc.) Re: AMI (Area Median Income) levels\
+goals, City is below goals for 30% AMI units to date, but that figure does not include\
+30% AMI units in the pipeline. Next steps: close out FY 2025, develop 2026\
+workplan, create beta for web dashboard for tracking housing investments.\
+Dashboard is up now but data is not yet comprehensive.\
+NS: How can we figure the average cost per affordable unit?\
+AW: That data is not in an existing spreadsheet or database. We would need to\
+assemble the data from disparate sources.\
+MM: Can more easily calculate unit cost on a project-by-project basis.\
+SM: There was a big change at the mid-point of last Trump admin re: funding,\
+occurring again now. Historic projections may be hard to use going forward.\
+NS: Could we use existing audits to help figure that out?\
+1 of 3
+\fs24 \cf0 \page 
+\fs21\fsmilli10980 \cf2 Attachment 1- April 16, 2025, Regular HAC Meeting Minutes\
+\cf3 b.
+\f2\b  
+\f0\b0 SM: Audits occur at the state level with VH (Virginia Housing), it\'92s an onerous\
+process. No audits at the City level.\
+NS: Are the VH audits available to the City?\
+AW: We have access to public Virginia Housing records.\
+HG: What is Dogwood?\
+AW: Portfolio acquisition by the City, ~74 properties. Originally owned and\
+managed by Eugene Williams, then Woodard Properties. City investment kept\
+units affordable, now managed by CRHA.\
+Housing Ecosystems & Anti-Displacement Toolkit (HEAT) Policy Development\
+Update:\
+1.
+\f2\b  
+\f0\b0 Land Bank Authority of the City of Charlottesville (LBAC): Update and\
+Next Steps\
+PdO: This ordinance has significant changes to what HAC submitted.\
+Policy changes beyond what a lawyer would do. Does not reflect HAC\
+memo about establishing a parallel nonprofit and sunsetting LB (Land\
+Bank) as an authority after initial trial period.\
+SM: Reasoning behind changes from the city attorney would be useful.\
+AW: HAC can submit questions to City; changes could have come from\
+city council member, staff, legal, etc. This draft put together via\
+templates from other Authorities and input from various voices. If policy\
+change is identified, HAC can give feedback to city executive team. This\
+draft is an update/work in progress, reflects a review to make sure\
+there\'92s nothing counter to VA law. Once it becomes an action item it will\
+look different. Re: timeline, it is feasible to have an active Land Bank by\
+this time next year.\
+SM: $500k set aside for LB is gone from FY 2026 budget; will need some\
+preliminary capitalization from City. Money from City likely won\'92t come\
+until FY 27 unless something opens up. Given funding climate overall,\
+best to assume City money won\'92t be committed until then.\
+AW: For reference, the timeline for the Chesapeake Land Bank from\
+incorporation to being active was 6-8 months.\
+JJ: Let\'92s set a subcommittee meeting to discuss this new draft and craft\
+HAC\'92s feedback.\
+HAC Subcommittee Meeting set for 4/30 1pm.\
+2.
+\f2\b  
+\f0\b0 Charlottesville Affordable Housing Tax Abatement Program (CAHTAP):\
+Development and Introduction\
+AW: Staff looked at tax abatement programs in 16 cities. Here in\
+Charlottesville, it could fit under CEDA, or be standalone. Staff is\
+presenting prompts, potential directions. E.g., could be used to fund\
+ADUs, affordability levels, project sizes. In Richmond, affordability\
+2 of 3
+\fs24 \cf0 \page 
+\fs21\fsmilli10980 \cf2 Attachment 1- April 16, 2025, Regular HAC Meeting Minutes\
+\cf3 duration tied to abatements is 15 years with potential renewal. Keep in\
+mind the zoning ordinance might require a longer duration.\
+PdO: HAC previously looked at the City\'92s tax credit program for\
+rehabilitating homes and its adaptability to promoting affordability. Will\
+send to staff.\
+AW: RFP (Request for Proposals) is out now for Market Needs and Fiscal\
+Gap Analysis. Open to recommendations for analysis scope.\
+SM: With RFPs for the Comprehensive Plan, HAC played a role in helping\
+draft that. Would be useful for us to see a draft of the RFP. Motion to\
+express HAC\'92s support for continued exploration of CAHTAP concept and\
+desire to partner in its development.\
+PL: Second.\
+Motion passes.\
+4.
+\f2\b  
+\f0\b0 Agenda Items\
+i.
+\f2\b  
+\f0\b0 March 19, 2025 Regular HAC Meeting Minutes\
+Minutes approved.\
+ii.
+\f2\b  
+\f0\b0 Elect HAC Officers\
+Continuing motion from last meeting to renew JJ, SM, MP in their positions. Motion approved.\
+AW: Will review bylaws at next meeting. Adding the option for the CRHA director to designate\
+a representative to HAC will be presented to Council in May.\
+iii.
+\f2\b  
+\f0\b0 Discuss and approve the Risk Reduction Fund Survey (RRF) and next steps\
+HG: Where will money for fund come from? SM: Set aside from City general fund.\
+AW: No specific funding identified right now. Last recommended amount was $75,000.\
+DR: Recommend allowing AW to move forward distributing survey, asking questions of\
+stakeholders, survey doesn\'92t need to be perfect or occupy too much time.\
+5.
+\f2\b  
+\f0\b0 Next Meeting: May 21, 2025\
+6.
+\f2\b  
+\f0\b0 Public Comment\
+No public comment.\
+7.
+\f2\b  
+\f0\b0 Adjourn\
+Meeting adjourned 1:26pm.\
+3 of 3}

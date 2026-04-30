@@ -1,0 +1,175 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2867
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fswiss\fcharset0 ArialMT;\f2\fswiss\fcharset0 Arial-BoldMT;
+}
+{\colortbl;\red255\green255\blue255;\red64\green64\blue64;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\csgray\c31800;\csgray\c0;}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs22\fsmilli11040 \cf2 Attachment 1- March 19, 2025, Regular HAC Meeting Minutes\
+\cf3 Housing Advisory Committee (HAC) Minutes\
+Wednesday, March 19th 2025\
+City Space Conference Room 12pm - 2pm\
+HAC Members Absent:\
+\'95
+\f1  
+\f0 Michael Payne (MP)\
+HAC Members Present:\
+\'95
+\f1  
+\f0 Joy Johnson, Chair (JJ)\
+\'95
+\f1  
+\f0 Sunshine Mathon, Vice Chair (SM)\
+\'95
+\f1  
+\f0 Heather Griffith (HG)\
+\'95
+\f1  
+\f0 Phil d'Oronzio (PdO)\
+\'95
+\f1  
+\f0 Peppy Linden (PL)\
+\'95
+\f1  
+\f0 Mike Parisi (MCP)\
+\'95
+\f1  
+\f0 Dan Rosensweig (DR)\
+\'95
+\f1  
+\f0 John Sales (JS)\
+\'95
+\f1  
+\f0 Nicole Scro (NS)\
+Staff Attendees:\
+\'95
+\f1  
+\f0 Alexander Ikefuna (AI)\
+\'95
+\f1  
+\f0 Madelyn Metzler (MM)\
+\'95
+\f1  
+\f0 Antoine Williams (AW)\
+1.
+\f2\b  
+\f0\b0 Welcome\
+SM: Calls meeting to order at 12:09pm.\
+2.
+\f2\b  
+\f0\b0 Introductions and Attendance\
+3.
+\f2\b  
+\f0\b0 Agenda Items\
+i.
+\f2\b  
+\f0\b0 Approved.\
+November 20, 2024 Regular HAC Meeting Minutes\
+ii.
+\f2\b  
+\f0\b0 December 18, 2024 Regular HAC Meeting Minutes\
+Approved.\
+iii.
+\f2\b  
+\f0\b0 Updated FY2025 - 2026 Meeting Schedule\
+AW: Staff conflict in January 2026, suggest canceling due to overlapping CAHF\
+(Charlottesville Affordable Housing Fund) Committee Activities.\
+Only two meetings this past year had full HAC membership in attendance. HAC could\
+consider quarterly meetings. If a member has three absences or more, membership can be\
+in jeopardy.\
+JS: Could there be an option for CRHA (Charlottesville Redevelopment & Housing Authority)\
+Deputy Director Kathleen Glenn-Matthews to attend in my place?\
+AW: Not at present, but HAC could make this motion for City Council to approve.\
+DR: Move to recommend to Council to include CRHA executive director or alternate\
+representative.\
+Motion passes.\
+SM: Any suggestions to change meeting frequency or meeting time? Governor\'92s Housing\
+Conference is November 19th\'96can we move HAC\'92s November up to November 12th?\
+1 of 3
+\fs24 \cf0 \page 
+\fs22\fsmilli11040 \cf2 Attachment 1- March 19, 2025, Regular HAC Meeting Minutes\
+\cf3 Motion passes to cancel January meeting, move November meeting from 19th to 12th.\
+iv.
+\f2\b  
+\f0\b0 Landlord Risk Reduction Program (LRRP) Discussion\
+AW: LRRP implementation likely won\'92t happen soon, we can work on it at the subcommittee\
+level and then bring it up to general HAC meetings.\
+PdO: Notes 5-6 requests have come to the CDBG (Community Development Block Grant)\
+Taskforce for eviction related programs, security deposits, etc. similar to LRRP goals. Possible\
+to coordinate, consolidate efforts across orgs?\
+JS: LRRP directed more towards damages, accrued rent, not eviction. Not necessarily all\
+overlapping.\
+NS: Have had two voucher holders in my own properties. Lots of money is funneled to\
+landlords from multiple sources\'96schools, churches, nonprofits, government.\
+Consolidating could help both the landlord and the tenant manage funds.\
+SM: Providers struggle with funding from multiple sources and those sources coming with\
+conditions, limitations. Coordination would be most helpful on the funder side not provider\
+side.\
+DR: Original discussion came about due to voucher holders\'92 difficulty finding landlords to\
+accept them. Above and beyond security deposit guarantees, LRRP would create added\
+incentive by removing the landlord's need to take the tenant to court to recover funds.\
+SM: LRRP would also take away the need to put funds aside for duration of the lease; funds\
+are needed only if & when conditions are triggered. Could be a more efficient use of funds.\
+NS: Some voucher holders do cause damages, especially in cases with children which is\
+understandable. Could a security deposit still be required and held in escrow, with the LRRP\
+kicking in beyond that threshold?\
+PdO: Providing the security deposit itself was a hurdle to renters getting into a unit in the\
+first place.\
+DR: How much is Haven funded every year for security deposits and rental arrears? Where\
+does that funding come from? If from the City, could LRRP help the City more efficiently use\
+funds?\
+PdO: Would need to educate landlords, make LRRP process simple, and tie LRRP tightly to\
+housing vouchers.\
+SM: HAC previously debated the risk for abuses from tenants, whether they would have\
+enough skin in the game if they weren\'92t motivated to recover their security deposits.\
+HG: In case of damage mid-lease, is the landlord immediately reimbursed? Or does\
+reimbursement occur at the end of the lease?\
+JS: If the tenant damages the unit, they can lose their voucher. That safeguard is already in\
+place and would incentivize residents not to abuse LRRP funds.\
+JJ: Any potential for landlords to abuse the program?\
+JS: Landlords aren\'92t getting and holding security deposit funds, and both pre- and post-\
+inspections are required. Voucher program itself requires yearly inspections.\
+2 of 3
+\fs24 \cf0 \page 
+\fs22\fsmilli11040 \cf2 Attachment 1- March 19, 2025, Regular HAC Meeting Minutes\
+\cf3 DR: Would knowing they would not need to go through a court process to recover security\
+deposit and rent be enough incentive for landlords to participate in LRRP?\
+NS: The real estate market is so tight, preference may simply be to rent to a non-voucher\
+holder.\
+JS: Voucher lease-up is an issue, but it depends on the individual voucher holder. Credit\
+scores, income, criminal history (some landlords look back 30 years) can all be reasons\
+landlords use to rent to a voucher holder beyond issues addressed by LRRP.\
+NS: Would the LRRP guarantee of security deposit satisfy the security deposit conditions of a\
+lease? Or would resident also need pay the security deposit in addition to the LRRP\
+guarantee?\
+SM: Recommend subcommittee discuss LRRP, talk to Haven and other orgs that administer\
+security deposits. Piedmont Housing Alliance provides some security deposit assistance,\
+takes away from funds that could be used elsewhere.\
+DR: Subcommittee can work to quantify that. How much money could be saved by this\
+program? Would inform decision making.\
+SM: HAC previously did a soft survey, received feedback from Misty Graves at Charlottesville\
+Human Services, Emily Dreyfus at Legal Aid Justice Center, et al.\
+JS: CRHA previously had a program providing a $1000 bonus to landlords for first-time\
+voucher acceptance. County still has a similar incentive program that really works. CRHA\
+provides 300 different vendor checks per month\'96there are a lot of small landlords along\
+with the larger ones. Also need to consider implications of landlords not having security\
+deposits in hand if they participate in LRRP , as well as considerations of lenders who might\
+expect or demand actual security deposit funds from landlords.\
+MM/AW: Not in a hurry with current 25-26 budget cycle timeline, looking at following year\
+for LRRP implementation.\
+4.
+\f2\b  
+\f0\b0 Next Meeting: April 16, 2025\
+AW: HAC originally scheduled to nominate positions last meeting. Can do this now and vote at the\
+April meeting.\
+DR: Move to re-elect Joy, Sunshine, Mike.\
+Motion seconded\
+AW: Motion will carry over to next meeting\'92s vote.\
+5.
+\f2\b  
+\f0\b0 Public Comment No public comment.\
+6.
+\f2\b  
+\f0\b0 Adjourn Meeting adjourned 1:31pm.\
+3 of 3}

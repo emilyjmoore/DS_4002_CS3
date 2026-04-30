@@ -1,0 +1,277 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2867
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Arial-BoldMT;\f1\fswiss\fcharset0 Arial-ItalicMT;\f2\fswiss\fcharset0 ArialMT;
+\f3\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\csgray\c0;}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\b\fs22\fsmilli11040 \cf2 CITY OF CHARLOTTESVILLE\
+
+\f1\i\b0 To be a place where everyone thrives.\
+
+\f0\i0\b\fs31\fsmilli15960 Housing Advisory Committee\
+
+\fs24 Wednesday, July 16, 2025, noon\
+
+\f2\b0 Location: 100 Fifth Street NE, Charlottesville, VA 22902\
+CitySpace - Large Conference Room\
+
+\f0\b\fs22\fsmilli11040 HAC Members Present:\
+
+\f2\b0 \uc0\u9679  Joy Johnson, Chair (JJ)\
+\uc0\u9679  Phil d'Oronzio (PdO)\
+\uc0\u9679  Mike Parisi, Secretary (MCP)\
+\uc0\u9679  Nicole Scro (NS)\
+\uc0\u9679  Dan Rosensweig (DR)\
+\uc0\u9679  Michael Payne (MP)\
+
+\f0\b HAC Members Absent:\
+
+\f2\b0 \uc0\u9679  Heather Griffin (HG)\
+\uc0\u9679  Peppy Linden (PL)\
+
+\f0\b Staff Attendees:\
+
+\f2\b0 \uc0\u9679  Ose Akinlotan (OA)\
+\uc0\u9679  Kellie Brown (KB)\
+\uc0\u9679  Tori Kannellopoulos (TK)\
+\uc0\u9679  Madelyn Metzler (MM)\
+\uc0\u9679  Alan Peura (AP)\
+
+\f0\b Online Attendees:\
+
+\f2\b0 \uc0\u9679  Emily Dreyfuss (ED)\
+\uc0\u9679  James Snyder (JS)\
+\uc0\u9679  Sunshine Mathon, Vice Chair (SM)\
+\uc0\u9679  John Sales (JS)\
+1. 
+\f0\b Welcome\
+MCP: 
+\f2\b0 Calls meeting to order at 12:05pm. (SM absent, JJ delayed arrival)\
+2. 
+\f0\b Introductions and Attendance\
+
+\f2\b0 3. 
+\f0\b Agenda\
+
+\f2\b0 a. b. 4. 
+\f0\b Staff Updates\
+
+\f2\b0 a. 
+\f0\b April 16, 2025, Regular HAC Meeting Minutes\
+May 21, 2025, Policy Subcommittee HAC Meeting Minutes\
+
+\f1\i\b0 Approval of each deferred to next HAC meeting\
+
+\f0\i0\b Introduction from Kellie Brown, Director of Neighborhood Development Services\
+KB:
+\f2\b0  First visit to a HAC meeting; introduces herself as Director of Neighborhood\
+Development Services (NDS). NDS happy to take on some staff members from Office of\
+Community Solutions (OSC) since it\'92s been dissolved and reorganized, including\
+Antoine Williams and Madelyn Metzler. Antoine is currently out on leave.\
+
+\fs19\fsmilli9960 Page 1 of 4
+\f3\fs24 \cf0 \page 
+\f2\fs22\fsmilli11040 \cf2 b. 
+\f0\b Phil d\'92Oronzio (PdO):
+\f2\b0  Asks about the new zoning ordinance and the court decision\
+voiding the ordinance\
+
+\f0\b KB:
+\f2\b0  No update to provide beyond the press release City recently sent out.\
+
+\f0\b JJ:
+\f2\b0  Notes this is her first time meeting KB.\
+
+\f0\b Dan Rosensweig (DR):
+\f2\b0  Asks about the poll sent out to HAC members asking about\
+preferences re: pausing meetings until October to allow for the transition of OSC staff to\
+NDS, and to allow NDS to address the court\'92s decision re: zoning ordinance.\
+
+\f0\b Madelyn Metzler (MM):
+\f2\b0  Vote was 6-3 in favor of pausing.\
+
+\f0\b Joy Johnson (JJ):
+\f2\b0  Voted not to pause. Are there other items to look at in the workplan?\
+Want to make sure we\'92re sticking to workplan we established.\
+
+\f0\b PdO: 
+\f2\b0 Can we get a briefing from Madelyn about staff capacity and responsibilities?\
+
+\f0\b JJ:
+\f2\b0  Want to meet with MM like I did monthly with Antoine. Suspicious about committees\
+not meeting, and a lot happening in the meantime.\
+
+\f0\b Nicole Scro (NS):
+\f2\b0  Makes a point of commending OCS staff (Antoine Williams, Alan\
+Peura, Madelyn Metzler) for their work during this time.\
+
+\f0\b PdO: 
+\f2\b0 Motion to skip August meeting, and Chair and Vice Chair can decide whether to\
+meet in September.\
+
+\f1\i Motion passes 6-0.\
+
+\f0\i0\b Dan Rosensweig (DR):
+\f2\b0  During COVID, analysis of affordable housing deficit. HAC was\
+working on a blueprint for closing the gap and measuring how we\'92re doing. Units needed\
+per income level rentals and housing, reasonable assumptions of how many could be\
+constructed. Re: tax abatement program, will facilitate certain kinds of units, but not\
+others. Would like to look at the IAT again (Intervention Analysis Tool). Rory Stolzenberg\
+(Planning Commission member) and Sunshine Mathon were working on that.\
+
+\f0\b KB:
+\f2\b0  Introduces Ose Akinlotan and Tori Kanellopoulos from NDS\'92s Long Range Planning\
+department.\
+
+\f0\b JJ: 
+\f2\b0 Asks about Land Bank Ordinance (LBO) update.\
+
+\f0\b MM: 
+\f2\b0 LBO been on back burner due to staffing absences in the newly-formed Housing\
+Dept. Have shared material with the City Attorney but haven\'92t gotten feedback from the\
+Attorney or City Manager\'92s office.\
+
+\f0\b AP:
+\f2\b0  Working with a graduate student, Stephen Kelly at Batten School of Public Policy,\
+researching Land Bank best practices. Goal is to develop a comprehensive manual to\
+use as the Land Bank is stood up.\
+
+\f0\b KB: 
+\f2\b0 With staff priority being the Zoning Ordinance\'92s repeal and reinstatement, won\'92t be\
+able to return feedback to HAC until Fall most likely.\
+
+\f0\b Update on Charlottesville Affordable Housing Tax Abatement Program\
+Alan Peura (AP):
+\f2\b0  Presented to the Planning Commission, CADRE (Chamber of\
+Commerce\'92s Developer Roundtable group), we are getting feedback. Main new item is\
+
+\fs19\fsmilli9960 Page 2 of 4
+\f3\fs24 \cf0 \page 
+\f2\fs22\fsmilli11040 \cf2 contract signed with 3TP Consulting. Doing market analysis in Charlottesville,\
+submarkets (types, sizes, locations). Looking at impediments to construction to\
+determine if and how tax abatement could address costs of ADU requirement. Tariffs\
+and threats of tariffs driving up material costs, possible labor concerns. Goal is to have a\
+penultimate draft in late, then host a community meeting with HAC for further community\
+feedback.\
+
+\f0\b NS:
+\f2\b0  Contracting out to 3TP to develop the program has helped proposal not be delayed\
+during Zoning Ordinance legal issues?\
+
+\f0\b AP: 
+\f2\b0 Yes, it\'92s moving forward. Tax abatement is an option to consider under old or new\
+zoning code, whatever happens.\
+
+\f0\b PdO: 
+\f2\b0 Before abatement is designed, we need to know what environment we are working\
+in. Particularly interested in how smaller projects could be helped, and those projects\
+would be very different from larger developments.\
+
+\f0\b AP:
+\f2\b0  Study\'92s market research will be necessary to inform the design of the tax\
+abatement. Firm did similar projects in Charleston and Tampa, how various incentives\
+affect projects\'92\'92 feasibility. Grad student Stephen Kelly doing comparative analysis of tax\
+abatement programs across the country. Council, others will have a plethora of data to\
+use come late fall, early spring. Having conversation with Baltimore City staff re: their\
+model that is supported by local advocacy group Livable Cville. They get yearly data\
+about gaps between market and affordable rents to inform how much tax abatement will\
+cover.\
+
+\f0\b NS:
+\f2\b0  At CADRE and last HAC meeting, comments re: covering the affordability gap down\
+to the level of voucher holders\'92 rental payments.\
+
+\f0\b DR:
+\f2\b0  First, Habitat for Humanity has signed off on letters with Livable Cville in the past\
+but not this one. Agree with much of their letter, notes importance of items 7 and 8\'97tax\
+abatement coming out of City\'92s $10 million Affordable Housing fund, and gearing tax\
+abatement towards rental units in private market projects. Notes overinvestment\
+nationally in one type of intervention at expense of others. Could be a great program for\
+people just below market-rate levels. Public housing, Permanent Supportive Housing,\
+and homeownership should also be part of this conversation.\
+
+\f0\b PdO:
+\f2\b0  Need to look at this program for what it is, not what it isn\'92t. If it works at 60% most\
+efficiently, don\'92t try to stretch it into other areas where it won\'92t work.\
+
+\f0\b DR:
+\f2\b0  Not speaking to tactics but to larger vision.\
+
+\f0\b NS: 
+\f2\b0 Piedmont Housing Alliance has done tax abatements for most of their projects, but\
+that abatement money hasn\'92t been counted in the City\'92s $10 million Affordable Housing\
+Fund before. Disagree with Livable Cville\'92s point there.\
+
+\f0\b DR:
+\f2\b0  If tax abatement doesn\'92t cover the full difference between market and affordable\
+rent, that leftover difference will have to come from somewhere.\
+
+\f0\b MP:
+\f2\b0  Using Affordable Housing fund money for a tax abatement would be a huge\
+mistake. Incentivizing landlords to accept housing vouchers as part of this plan should\
+be explored. Also shouldn\'92t assume our local housing market needs this intervention.\
+
+\fs19\fsmilli9960 Page 3 of 4
+\f3\fs24 \cf0 \page 
+\f2\fs22\fsmilli11040 \cf2 Because of high land costs etc., skeptical that the City\'92s Affordable Dwelling Unit\
+requirements in the Zoning Ordinance are the major barrier to new projects. Don\'92t want\
+to give an abatement that isn\'92t needed. Student rental market is very different than the\
+rest of the market, shouldn\'92t be treated the same.\
+
+\f0\b DR: 
+\f2\b0 Possible that City could make student housing projects ineligible for abatements.\
+
+\f0\b MP:
+\f2\b0  Verve did primarily payment in lieu to meet ADU requirement. Most people who\
+need affordable housing wouldn\'92t want to live in a student housing building.\
+
+\f0\b NS: 
+\f2\b0 Verve is under the old ordinance.\
+
+\f0\b MM: 
+\f2\b0 Did use the new ordinance\'92s fee schedule for Verve\'92s payment in lieu. City didn\'92t\
+dictate any inclusion of affordable units.\
+
+\f0\b AP:
+\f2\b0  Council, consultants aware of possibility that abatement program wouldn\'92t be\
+indicated for Charlottesville. Example of Boston coming to that conclusion. Agreement\
+that giving abatement to a project that would happen anyway would be a poor outcome.\
+
+\f0\b NS: 
+\f2\b0 At CADRE, discussion about how the types of projects remaining in the market\
+have significant challenges to them. Fair to say ADU req isn\'92t the main impediment, but\
+not to say that some projects wouldn\'92t be made possible by abatement. 3TP could offer\
+a useful tool to use moving forward.\
+
+\f0\b MP: 
+\f2\b0 Sees new ordinance as giving away air rights for ADU req\'92s. Because AMIs are\
+high in Charlottesville, fear of not reaching the lowest levels of affordability with an\
+abatement. Could end up helping young professionals at 60% and not people with the\
+greatest need.\
+5. 
+\f0\b Public Comment\
+
+\f2\b0 a. 
+\f0\b James Snyder:
+\f2\b0  Wife and I own small cottage at 206 B 5th St SW. Bought in 2005, 1of 6\
+on 1/3 acre (Oak Lawn cottages). Oak Grove cottages by Dan Walters across the street,\
+5th St Flats behind that. Stable, moderately priced. My concern is properties were\
+rezoned to CX-5. Our property is now nonconforming. New projects next to our property\
+will have no setbacks once developed. Re: 7th St Student Housing Project, building\
+would be 3 feet from Oak Grove cottages, very close to historic church. Very\
+destabilizing. Don\'92t want CX-5 zoning to be reestablished if Zoning Ordinance is\
+repealed and then later readopted. City bought houses just to south of Oak Lawn\
+cottages, good investment. This portion of Fifeville will be destroyed by zoning. We\
+didn\'92t know about the new zoning. This is a sensitive area. Student housing doesn\'92t\
+belong here, should be in Barracks Road shopping area. Sent petition to Planning\
+Commission to not reinstate CX-5 zoning.\
+6. 
+\f0\b Next Scheduled Meeting: August 20, 2025\
+JJ:
+\f2\b0  Notes that this meeting will not happen unless specifically scheduled by chair.\
+7. 
+\f0\b Adjourn\
+
+\f2\b0\fs19\fsmilli9960 Page 4 of 4}

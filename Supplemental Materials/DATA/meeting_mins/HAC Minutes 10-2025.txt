@@ -1,0 +1,389 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2867
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 ArialMT;\f1\fswiss\fcharset0 Arial-BoldMT;\f2\fswiss\fcharset0 Arial-ItalicMT;
+\f3\fswiss\fcharset0 Helvetica;\f4\fmodern\fcharset0 CourierNewPSMT;\f5\fnil\fcharset0 LucidaGrande;
+}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\csgray\c0;}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs22\fsmilli11040 \cf2 Attachment 1- October 15, 2025, Regular HAC Meeting Minutes Draft\
+
+\f1\b\fs24 CITY OF CHARLOTTESVILLE\
+
+\f2\i\b0 To be a place where everyone thrives.\
+
+\f1\i0\b\fs31\fsmilli15960 Housing Advisory Committee\
+
+\fs24 Wednesday, October 15, 2025, noon\
+
+\f0\b0 Location: 100 Fifth Street NE, Charlottesville, VA 22902\
+CitySpace - Large Conference Room
+\f3 \cf0 \
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trbrdrt\brdrnil \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4320
+\clvertalt \clshdrawnil \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8640
+\pard\intbl\itap1\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf0 HAC Members Present:\cell 
+\pard\intbl\itap1\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf0 \'95 Heather Griffith, Real Estate\cell \row
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4320
+\clvertalt \clshdrawnil \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8640
+\pard\intbl\itap1\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf0 \'95 Joy Johnson, Chair, Affordable\cell 
+\pard\intbl\itap1\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf0 Professional (HG)\cell \row
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4320
+\clvertalt \clshdrawnil \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8640
+\pard\intbl\itap1\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf0 Housing Beneficiary (JJ)\cell 
+\pard\intbl\itap1\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf0 \'95 Rich Bard, Affordable Housing\cell \row
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clmgf \clvertalt \clshdrawnil \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4320
+\clmrg \clvertalt \clshdrawnil \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8640
+\pard\intbl\itap1\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf0 \'95 Sunshine Mathon, Vice Chair,\
+Beneficiary (RB)\cell 
+\pard\intbl\itap1\cell \row
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4320
+\clvertalt \clshdrawnil \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8640
+\pard\intbl\itap1\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf0 Non-profit \'96 PHA (SM)\cell 
+\pard\intbl\itap1\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf0 \cell \row
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4320
+\clvertalt \clshdrawnil \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8640
+\pard\intbl\itap1\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf0 \'95 Phil d'Oronzio, Real Estate\cell 
+\pard\intbl\itap1\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf0 Staff Attendees:\cell \row
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4320
+\clvertalt \clshdrawnil \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8640
+\pard\intbl\itap1\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf0 Professional (PdO)\cell 
+\pard\intbl\itap1\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf0 \'95 Madelyn Metzler, Acting Housing\cell \row
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4320
+\clvertalt \clshdrawnil \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8640
+\pard\intbl\itap1\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf0 \'95 Peppy Linden, At-Large (PL)\cell 
+\pard\intbl\itap1\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf0 Program Manager, Neighborhood\cell \row
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4320
+\clvertalt \clshdrawnil \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8640
+\pard\intbl\itap1\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf0 \'95 Michael Payne, City Councilor\cell 
+\pard\intbl\itap1\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf0 Development Services (MM)\cell \row
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4320
+\clvertalt \clshdrawnil \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8640
+\pard\intbl\itap1\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf0 (MP)\cell 
+\pard\intbl\itap1\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf0 \'95 Kellie Brown, Director,\cell \row
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4320
+\clvertalt \clshdrawnil \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8640
+\pard\intbl\itap1\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf0 \'95 Dan Rosensweig, Non-profit -\cell 
+\pard\intbl\itap1\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf0 Neighborhood Development\cell \row
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4320
+\clvertalt \clshdrawnil \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8640
+\pard\intbl\itap1\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf0 Habitat for Humanity (DR)\cell 
+\pard\intbl\itap1\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf0 Services (KB)\cell \row
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4320
+\clvertalt \clshdrawnil \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8640
+\pard\intbl\itap1\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf0 \'95 Nicole Scro, Real Estate\cell 
+\pard\intbl\itap1\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf0 \'95 Alan Peura, City Manager\'92s\cell \row
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4320
+\clvertalt \clshdrawnil \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8640
+\pard\intbl\itap1\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf0 Professional (NS)\cell 
+\pard\intbl\itap1\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf0 Office (AP)\cell \row
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4320
+\clvertalt \clshdrawnil \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8640
+\pard\intbl\itap1\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf0 \cell 
+\pard\intbl\itap1\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf0 \'95 Chris Engel, Director, Economic\cell \row
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clmgf \clvertalt \clshdrawnil \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4320
+\clmrg \clvertalt \clshdrawnil \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8640
+\pard\intbl\itap1\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf0 HAC Members Absent:\
+Development Office (CE)\cell 
+\pard\intbl\itap1\cell \row
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clmgf \clvertalt \clshdrawnil \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4320
+\clmrg \clvertalt \clshdrawnil \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8640
+\pard\intbl\itap1\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf0 \'95 Mike Parisi, Secretary, At-Large\cell 
+\pard\intbl\itap1\cell \row
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4320
+\clvertalt \clshdrawnil \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8640
+\pard\intbl\itap1\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf0 (MCP)\cell 
+\pard\intbl\itap1\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf0 Other Attendees:\cell \row
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4320
+\clvertalt \clshdrawnil \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8640
+\pard\intbl\itap1\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf0 \'95 John Sales, Non-profit -\cell 
+\pard\intbl\itap1\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf0 \'95 Kathleen Glenn-Matthews, CRHA\cell \row
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4320
+\clvertalt \clshdrawnil \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8640
+\pard\intbl\itap1\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf0 Charlottesville Redevelopment &\cell 
+\pard\intbl\itap1\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf0 (KGM)\cell \row
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrt\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx4320
+\clvertalt \clshdrawnil \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8640
+\pard\intbl\itap1\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf0 Housing Authority (JS)\cell 
+\pard\intbl\itap1\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf0 \'95 Wendy Gao, PHAR (WG)\cell \lastrow\row
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf0 \
+
+\f0 \cf2 1. Welcome\
+2. Introductions & Attendance\
+3. Staff Updates\
+
+\fs22\fsmilli11040 Page 1 of 5
+\f3\fs24 \cf0 \page 
+\f0\fs22\fsmilli11040 \cf2 Attachment 1- October 15, 2025, Regular HAC Meeting Minutes Draft\
+
+\fs24 -HOPS and CAHF timing updates. Received 15 applications received so far.\
+Workshops have been helpful.\
+-UVA student is going to be doing a policy analysis of Risk Reduction Fund\
+proposal. Will include alternative ideas.\
+-Consultants will be working on Housing Manual fee calcs and how they are\
+applied.\
+-Regional Housing Study underway by TJPDC. Working with VTech staff. End of\
+October will have preliminary outcomes and inventory of housing resources.\
+-Transition of Antoine is being approached as an opportunity to review the City\
+staffing to support housing programs. RFP for consulting firms to do a Program\
+Evaluation. Will include input from stakeholders and get a fresh outside\
+perspective on how staffing/program can best support the Housing Plan goals.\
+The City wants to recruit a high caliber candidate \'96 hence the desire to have a\
+clear plan of action. 10-12 weeks for wrapping up consulting scope, then hiring\
+process would begin.\
+4. Agenda\
+A. September 17, 2025, Regular HAC Meeting Minutes\
+Unanimous vote with no changes\
+B. Land Bank Authority of Charlottesville (LBAC) status review and discussion\
+Kellie Brown presenting: Kellie worked this summer and fall understanding\
+work completed to date. She\'92ll present history, rationale, and key takeaways.\
+-Recommends having discussion after both Land Bank and CABL fund.\
+-Recapped process from 2023-today.\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f4 o
+\f0  Staff recommendations:\
+
+\f5 \uc0\u9642 
+\f0  establish \'93authority\'94 given the nature of public funds as a source;\
+but acknowledged that moving slowly could be problematic\
+
+\f5 \uc0\u9642 
+\f0  Confirmed Authority can accept CRA and tax deductible\
+contributions\
+
+\f4 o
+\f0  Identify affordable housing as the key purpose\
+
+\f4 o
+\f0  Restrict authority to issue bonds, discharge liens nor be exempt from\
+municipal fees\
+
+\f4 o
+\f0  QUESTION: How restrictive is the lien discharge authority in VA\
+compared to other states?\
+
+\f4 o
+\f0  QUESTION: Has it been confirmed that Land Bank bond authority would\
+actually impinge on City\'92s bonding authority?\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\fs22\fsmilli11040 Page 2 of 5
+\f3\fs24 \cf0 \page 
+\f0\fs22\fsmilli11040 \cf2 Attachment 1- October 15, 2025, Regular HAC Meeting Minutes Draft\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f3\fs24 -
+\f0  Key Takeaways:\
+
+\f4 o
+\f0  Costs of Land could divert resources from other priorities\
+
+\f4 o
+\f0  Staff resources: 0.5-1 FTE; adt\'92l in future\
+
+\f4 o
+\f0  Operating budget costs for administration will continue\
+
+\f4 o
+\f0  Quick acquisition approach may not be realistic, but there could be other\
+tools\
+
+\f4 o
+\f0  Other tools/programs might serve the same challenge\
+C. Charlottesville Affordable Bridge Loan (CABL) Fund\
+Chris Engel gave background of CEDA. 7 members appointed by Council for\
+4 year terms. Has the authority to buy/sell land with bonding \'93authority\'94 \'96 it\
+can serve as a conduit issuer for other entities, not be an issuer itself.\
+Bonding authority of CEDA does impact City\'92s bonding capacity. CEDA can\
+give bonds \'93tax exempt\'94 status to loans/bonds \'96 so it doesn\'92t always impact\
+authority. Cost of issuance needs to be $4M+ to make transactional costs\
+worth it.\
+Referenced Kindlewood\'92s \'93synthetic TIF\'94 as an example. Then referenced\
+Piedmont Community Land Trust and Piedmont Housing coming to EDA to\
+ask whether the EDA can offer investment of dollars for rapid acquisition of\
+homeownership opportunities to embed affordability.\
+CEDA developed a CABL as an affordable bridge loan program to support\
+city-based nonprofits in the housing. Initial funding $500k at 2%. Turn\
+around time for approval is intended to be quick, but details are still be\
+worked through. 30-45 days is the goal.\
+DR: Applaud the effort. Seeing a couple of contradictions: don\'92t often have\
+unencumbered land as collateral \'96 alternative could be other methods of\
+collateralization. Application requirement for financial and development plans\
+needs to be streamlined.\
+PdO: We do fast bridge lending all the time in his business. Is glad to offer\
+guidelines from his business to accelerate the review time.\
+Chris: EDA board was uncomfortable with idea of pre-qualified \'93line of credit\'94.\
+NS: Thought about a program like this for nonprofits that are newer or don\'92t\
+have the history. Could be really beneficial for startup nonprofits. If this has\
+been in place, New Hill would have had a property in hand with this resource.\
+Question: Is this about \'93replacing\'94 the land bank? The opportunity of the\
+land bank idea was to play a role in repairing past harm through mindful\
+intentional development.\
+PL: The consultants working on the tax abatement study were evaluating\
+feasibility.\
+KB: No real connection to the land bank.\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\fs22\fsmilli11040 Page 3 of 5
+\f3\fs24 \cf0 \page 
+\f0\fs22\fsmilli11040 \cf2 Attachment 1- October 15, 2025, Regular HAC Meeting Minutes Draft\
+
+\fs24 KGM: What\'92s the tie in with community planning for economic development.\
+In other words, what the community wants and what can be done.\
+SM: 1) Having faith that we know how to do what we do instead of detailing a\
+plan for action. 2) Pre-qualify for a loan so it\'92s not onerous to pull down\
+capital when time comes.\
+PdO: It\'92s okay to ask for an exit strategy.\
+KB: CABL is for now. Land Bank could come back at another time.\
+SM: What if Land Bank existed now, would it have been used for Holiday\
+drive acquisition?\
+MP: If we hadn\'92t had a year round surplus then the Land Bank could have\
+been the entity.\
+NS: Frustrating that we\'92ve been talking about this for a long time. If not the\
+Land Bank, we still need the City to play a role in locking up land and\
+facilitating community-centered development.\
+PdO: Discussion of a strike fund has been in play since 2017. Need human\
+capital to manage larger scale. Called back to request to City to fund staffing.\
+PL: Share\'92s Nicole\'92s frustration. Looking back, it\'92s going to take too many\
+people and too much funding.\
+MP: In most recent Land Bank it\'92s proposed as an Authority, but it was staff\
+who lead us down this path. Original HAC proposed independent nonprofit.\
+JJ: Need Sam in the room to discuss a path forward.\
+KB: One observation is that we\'92re discussing a specific tool to achieve a\
+specific goal without context to how it all applies. She gets a little\
+uncomfortable because she\'92d like to zoom out to discuss everything on the\
+list and to prioritize most effective tools.\
+SM: Is the single point of pain for the City the bonding authority and control?\
+KB: Also the tax revenue.\
+DR: Supportive of Kellie\'92s effort to evaluate most effective staffing. CAHF\
+could make a larger contribution to CABL to increase it \'96 or loan loss reserves\
+or backing loans.\
+Madelyn: Would you be supportive of that proposal if it caused a current\
+project not be funded?\
+DR: It\'92s a one-time infusion since it creates a revolving fund. Could\
+accomplish a lot of what the Land Bank goals are by capitalizing a program\
+that\'92s getting stood up.\
+NS: Were trying to accomplish a lot with the Land Bank. Interested in seeing\
+a bird\'92s eye view of priorities and goals. For the zoning ordinance to be\
+successful, we need resources directed to support meetings community-\
+based goals.\
+
+\fs22\fsmilli11040 Page 4 of 5
+\f3\fs24 \cf0 \page 
+\f0\fs22\fsmilli11040 \cf2 Attachment 1- October 15, 2025, Regular HAC Meeting Minutes Draft\
+
+\fs24 MP: How to get the city more engaged in property acquisitions for community\
+development. This isn\'92t tangential to zoning goals.\
+JJ: Visited Greensville, NC and their staff is \'93invested\'94 in a community. Staff\
+dedicated as Neighborhood Planners. She was amazed by their process. Ex:\
+land swap to keep people in their neighborhoods but allowing for\
+development. There\'92s a piece that\'92s missing from our process.\
+KB: Staff are dedicated to neighborhoods, but their time is consumed by\
+reviewing developments. Just created new long-range planning department.\
+SM: Brought up Small Area Plan goal from re-zoning effort.\
+KB: Long range planning team are starting the Small Area Plan efforts in 10th\
+and Page and Rose Hill, etc. There is funding for Small Area Plan efforts.\
+JJ: Need to overcome history of mistrust. It\'92s going to be hard to serve as a\
+volunteer for community members because of the mistrust.\
+DR: Reason why neighborhood planners were phased out because they\
+became tools to keep power structures in place. Made comprehensive\
+zoning code impossible.\
+JJ: Still necessary to have a relationship with the community. But with\
+guardrails.\
+DR: Aiming for a reparative structure.\
+D. HAC Annual Work Calendar update\
+MM: Will share past plan. No work has been done on it recently.\
+JJ: Wants to review to evaluate what we did and into the future. Will discuss\
+at next meeting.\
+5. Public Comment\
+WG: Organizers have been fighting development by development and trying to\
+get a fast-track amendment in zoning code to control development on edge of\
+low-income communities. Asking for support.\
+JJ: Wants to have a conversation within the HAC to discuss.\
+6. Next scheduled meeting: November 12, 2025\
+7. Adjourn\
+
+\fs22\fsmilli11040 Page 5 of 5}

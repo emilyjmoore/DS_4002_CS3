@@ -258,3 +258,10 @@ If model coefficients or p-values differ significantly from expected:
 - Confirm the cleaning notebook ran successfully and no rows with missing dates or NaN values remain.
 - Check that the date column is properly formatted as a datetime type before modeling.
 - Large deviations may indicate the join step produced duplicate or misaligned rows — re-run Steps 3 and 4 before re-running the model.
+
+--
+
+## References
+
+[1] L. Mercanti, “Natural Language Processing (NLP) in Finance: How AI is Transforming Market Analysis,” Medium. Accessed: Apr 29, 2025. [Online]. Available: (https://leomercanti.medium.com/natural-language-processing-nlp-in-finance-how-ai-is-transforming-market-analysis-9b7c4d2c5c61)
+[2] "What Is an ARIMAX Model?," GeeksforGeeks. Accessed: Apr 29, 2025. [Online]. Available: (https://www.geeksforgeeks.org/artificial-intelligence/what-is-an-arimax-model/)

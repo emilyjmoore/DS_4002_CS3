@@ -10,12 +10,12 @@ This README is your guide for understanding the project, navigating the reposito
 
 To reproduce the full workflow, run the notebooks in this exact order:
 
-1. `scrape_meeting_mins.ipynb`
-2. `scrape_caar_reports.ipynb`
-3. `join_created_csv_files.ipynb`
-4. `cleaning_for_eda.ipynb`
-5. `exploratory_data_analysis_visualizations.ipynb`
-6. `time_series_regression_model.ipynb`
+1. `scrape_meeting_mins_student.ipynb`
+2. `scrape_caar_reports_student.ipynb`
+3. `join_created_csv_files_student.ipynb`
+4. `cleaning_for_eda_student.ipynb`
+5. `exploratory_data_analysis_visualizations_student.ipynb`
+6. `time_series_regression_model_student.ipynb`
 
 All datasets, cleaned files, and output visualizations will be created automatically in the appropriate folders as you run each notebook.
 
